@@ -1,0 +1,7 @@
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\bin\Debug\MyCsharpProgramWithEng45.exe.config
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\bin\Debug\MyCsharpProgramWithEng45.exe
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\bin\Debug\MyCsharpProgramWithEng45.pdb
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\obj\Debug\TrainlineSoftware.csprojAssemblyReference.cache
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\obj\Debug\TrainlineSoftware.csproj.CoreCompileInputs.cache
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\obj\Debug\MyCsharpProgramWithEng45.exe
+C:\Work\Engineering45\Week 2\Day 1\Project-2\MyCsharpProgramWithEng45\MyCsharpProgramWithEng45\obj\Debug\MyCsharpProgramWithEng45.pdb
